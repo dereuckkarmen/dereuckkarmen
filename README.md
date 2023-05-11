@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karmen. I live in Cape Town, South Africa.</h1>
-<h3>I have recently completed a full stack development bootcamp at Le Wagon. Feel free to reach out if you'd like to connect. Thanks for visiting!</h3>
+<h1 align="center">Hi 👋, I'm Karmen.</h1>
+<h3>I live in Cape Town, South Africa. I have recently completed a full stack development bootcamp at Le Wagon. Feel free to reach out if you'd like to connect. Thanks for visiting!</h3>
 
 - 🌱 I’m currently learning **React**
 
